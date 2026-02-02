@@ -1,2 +1,1 @@
-# TDA
-Read TDA and ML under Dr Kuntal Roy
+# TDA reading project under Dr Kuntal Roy
